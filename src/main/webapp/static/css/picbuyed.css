@@ -1,0 +1,38 @@
+.sm{
+            display: inline-block;
+            position:relative;
+            width: 110%;
+            height: 2em;
+            background-color: #BEBEBE;
+            color: #FF0000;
+            font-weight: bold;
+            line-height: 28px;
+            text-align: center;
+            float: left;
+            transform: translate(10%, 45%) rotate(315deg);
+            box-shadow: 0 0 10px rgba(0,0,0,.5),inset 0 0 3px #fff;
+            text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+        }
+        a{
+            font-family: 微软雅黑;
+            text-decoration: none;
+            cursor: auto;
+        }
+        .main_img{ 
+          display: block;
+          width: 280px;
+    	  height: 260px;
+          position: relative;
+          overflow: hidden;
+          margin-left: 0.742em;
+          margin-top: 0.8em;
+        }
+
+        .main_img .new{
+            
+            position: absolute;
+            top: 0;
+            left: 0;
+            
+            
+        }
